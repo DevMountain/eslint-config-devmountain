@@ -6,6 +6,14 @@
   "scripts": {
     "lint": "eslint \"./*.js\" \"./lib/*.js\""
   },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/DevMountain/eslint-config-devmountain"
+  },
+  "homepage": "https://github.com/DevMountain/eslint-config-devmountain",
+  "bugs": {
+  	"url": "https://github.com/DevMountain/eslint-config-devmountain/issues"
+  },
   "author": "Ryan Walsh (https://twitter.com/_rtwalsh)",
   "keywords": [
   	"eslint",
