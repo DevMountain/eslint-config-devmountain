@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-devmountain",
+  "version": "1.0.0",
+  "description": "DevMountain's ESLint config.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint \"./*.js\" \"./lib/*.js\""
+  },
+  "author": "Ryan Walsh (https://twitter.com/_rtwalsh)",
+  "keywords": [
+  	"eslint",
+  	"eslintconfig",
+  	"devmountain",
+  	"javascript",
+  	"styleguide"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^2.10.2",
+    "eslint-plugin-react": "^5.1.1"
+  }
+}
